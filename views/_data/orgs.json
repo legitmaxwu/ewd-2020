@@ -5,7 +5,17 @@
     "full_name": "3D Printing For Everyone",
     "short_name": "3D4E",
     "floor": 7,
-    "table": "E"
+    "table": "E",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "3D4E is a place to create personal and student-driven projects through the use of 3D-printing. At 3D4E, we strive to inspire people through the power of computer-aided design, and leave our own mark by building practical solutions to real-world problems through 3D-printed products.",
+    "description": "Our club’s main focus is on group projects, in which we design, manufacture, and test using CAD software and 3D printing. Regardless of your background, major, or design experience, we are committed to teaching all our general members how to 3D print from the ground up. During the Fall Quarter, after we recruit new members, we will host weekly workshops to train everyone how to use CAD tools like Fusion360, and translate your designs into manufacturable prints. In addition to our group efforts, 3D4E also supports members with the resources and expertise they might need to pursue their own individual ideas. We work on quarter-long or year-long projects on topics like cosplay, RC cars, prosthetics, and wearable technology to showcase nationally with other 3D4E chapters. The best way to get in contact with us and get information on meetings is to join our Slack: https://tinyurl.com/y66br8vn. Our first meeting is on <b>October 8th (Week 1 Thursday) at 7 pm!</br>"
   },
   {
     "id": "acm",
@@ -13,7 +23,17 @@
     "full_name": "ACM",
     "short_name": "Association for Computing Machinery at UCLA",
     "floor": 1,
-    "table": "B"
+    "table": "B",
+    "umbrella": "",
+    "website": "https://www.uclaacm.com/",
+    "email": "acm@ucla.edu",
+    "facebook": "https://www.facebook.com/groups/uclaacm",
+    "twitter@": "",
+    "instagram@": "acm.ucla",
+    "github": "",
+    "discord": "tinyurl.com/ACMserver",
+    "tagline": "As the largest Computer Science student organization at UCLA and in Southern California, ACM at UCLA welcomes students of all backgrounds, interests, and skill levels to join our community and share in our passion for CS. ACM comprises eight committees with each serving a unique topic and mission such as  web and mobile development, artificial intelligence, cybersecurity, game design, diversity in tech, and so much more!",
+    "description": "Looking for a community to explore your interests in computer science and technology? ACM at UCLA welcomes students from all backgrounds, interests, and skill levels to join us in our passion for tech!<br>As UCLA’s largest CS student org, ACM at UCLA comprises 8 committees, each with a unique topic and mission, such as web and mobile development, artificial intelligence, cybersecurity, game design, diversity in tech, and so much more! Each of our committees offer beginner and advanced workshops along with other events like socials, hackathons, and much more!<br>Want to learn more about our committees and what we do? Come out to our Fall General Meeting on Monday, October 5th, 2020 at 6:30pm. To stay up to date about our events, check out our social media! There are no sign-ups or membership required!"
   },
   {
     "id": "acm_ai",
@@ -21,7 +41,17 @@
     "full_name": "ACM AI",
     "short_name": "",
     "floor": 5,
-    "table": "A"
+    "table": "A",
+    "umbrella": "ACM",
+    "website": "https://uclaacmai.github.io/",
+    "email": "ucla.acm.ai@gmail.com",
+    "facebook": "https://www.facebook.com/groups/uclaacmai",
+    "twitter@": "acm_ai_ucla",
+    "instagram@": "acm_ai_ucla",
+    "github": "uclaacmai",
+    "discord": "",
+    "tagline": "ACM AI is UCLA’s premier artificial intelligence and machine learning organization",
+    "description": "ACM AI’s mission is to grow and develop a community of students interested in Artificial Intelligence (AI) at UCLA, Los Angeles, and beyond. Our initiatives aim to serve everyone who has an interest in AI regardless of background, including people with no prior experience or knowledge in AI and non-CS majors. No application is required to attend our events. This fall ACM AI is offering three workshop series: Beginner Track, Advanced Track, and Applied ML. Beginner Track is an introductory course that teaches fundamentals of machine learning and assumes no prior background in AI. Advanced Track is a more advanced machine learning course that covers more advanced deep learning topics and is designed for students who have already previously taken Beginner Track or have prior knowledge of machine learning fundamentals. Our Applied ML workshops series covers practical skills needed to apply machine learning theory to real world problems and is designed for students who already have knowledge of machine learning fundamentals. UCLA is one of the world’s leading AI research producing institutions. This fall, ACM AI will be hosting a panel of world-class AI researchers from UCLA in a discussion on their ongoing work at UCLA, the greater AI research landscape, and how undergraduates can get involved. The best way for prospective members to get information on our events or contact us is our Facebook group. Our first info-session will be on Monday October 12 at 6:30PM on Zoom (zoom link will be posted in our Facebook group soon)."
   },
   {
     "id": "acm_cyber",
@@ -29,7 +59,17 @@
     "full_name": "ACM Cyber",
     "short_name": "",
     "floor": 5,
-    "table": "F"
+    "table": "F",
+    "umbrella": "ACM",
+    "website": "https://acmcyber.com/",
+    "email": "uclacyber@gmail.com",
+    "facebook": "https://www.facebook.com/groups/320869398280511",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "https://discord.gg/j9dgf2q",
+    "tagline": "Cybersecurity sounds hard. We get it. ACM Cyber holds workshops throughout each quarter geared towards novices and hobbyists curious about the world of cybersecurity, on topics such as forensics, web hacking, cryptography, and reverse engineering. We also hold Capture The Flag (CTF) competitions in which teams can participate collaboratively to solve cybersecurity challenges. All our events are open to anyone and everyone, even if you have no experience whatsoever.",
+    "description": "Our mission is to create a community in which both experts and beginners alike can grow in the field of cybersecurity skills and knowledge. We want to make cybersecurity simple and accessible for everyone. To that end, we hold workshops and special events designed for beginners with no experience or just beginning in cybersecurity. <br>Each quarter we hold a series of Cyber Academy workshops focused on specific key topics in cybersecurity. This year, for Fall we have Forensics; Winter is Web Hacking; and in Spring we’ll cover Cryptography. All of our workshops don’t have prerequisites. Anyone is welcome. Feel free to come to one even if you had to miss a previous one! The major event we have each quarter is our CTF After Dark competitions, where you can join a team or go solo and solve cybersecurity challenges. We emphasize on making CTF After Dark very beginner friendly, as a fun introduction to CTF competitions. Feel free to participate even if you haven’t come to our workshops! <br>We post all our events’ information on our website, on our Facebook Page, and in our newsletter. Each week, we also send out an email about upcoming Cyber events, interesting Cybersecurity news, and write-ups about exploits and CTFs! <br>Be sure to check out the general ACM Fall GM on Monday, October 5 at 6:30pm, where you can hear more about all eight ACM committees. Then come to the Cyber Fall GM and participate in our Cyber Corps Virtual Scavenger Hunt on Wednesday, October 7 at 6:30pm.<br>Sign up for the ACM at UCLA newsletter: http://eepurl.com/c5pE6P<br>Sign up for ACM Cyber newsletter: https://tinyurl.com/acmcybernewsletter"
   },
   {
     "id": "acm_design",
@@ -37,7 +77,17 @@
     "full_name": "ACM Design",
     "short_name": "",
     "floor": 5,
-    "table": "C"
+    "table": "C",
+    "umbrella": "ACM",
+    "website": "",
+    "email": "uclaacmdesign@gmail.com",
+    "facebook": "https://www.facebook.com/groups/acmdesign",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "acm_hack",
@@ -45,7 +95,17 @@
     "full_name": "ACM Hack",
     "short_name": "",
     "floor": 5,
-    "table": "H"
+    "table": "H",
+    "umbrella": "ACM",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "acm_icpc",
@@ -53,7 +113,17 @@
     "full_name": "ACM ICPC",
     "short_name": "International Collegiate Programming Contest",
     "floor": 5,
-    "table": "D"
+    "table": "D",
+    "umbrella": "ACM",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "acm_studio",
@@ -61,7 +131,17 @@
     "full_name": "ACM Game Studio",
     "short_name": "",
     "floor": 5,
-    "table": "B"
+    "table": "B",
+    "umbrella": "ACM",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "acm_teachla",
@@ -69,7 +149,17 @@
     "full_name": "ACM Teach LA",
     "short_name": "",
     "floor": 5,
-    "table": "G"
+    "table": "G",
+    "umbrella": "ACM",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "acm_w",
@@ -77,7 +167,17 @@
     "full_name": "ACM-W",
     "short_name": "",
     "floor": 5,
-    "table": "E"
+    "table": "E",
+    "umbrella": "ACM",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "aiaa",
@@ -85,7 +185,17 @@
     "full_name": "American Institute of Aeronautics and Astronautics",
     "short_name": "AIAA at UCLA",
     "floor": 2,
-    "table": "A"
+    "table": "A",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "aises",
@@ -93,7 +203,17 @@
     "full_name": "American Indian Science and Engineering Society",
     "short_name": "AISES",
     "floor": 6,
-    "table": "A"
+    "table": "A",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "aiche",
@@ -101,7 +221,17 @@
     "full_name": "American Institute of Chemical Engineers",
     "short_name": "AIChE",
     "floor": 3,
-    "table": "B"
+    "table": "B",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "asce",
@@ -109,7 +239,17 @@
     "full_name": "American Society of Civil Engineers",
     "short_name": "ASCE",
     "floor": 1,
-    "table": "C"
+    "table": "C",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "asme",
@@ -117,7 +257,17 @@
     "full_name": "American Society of Mechanical Engineers",
     "short_name": "ASME",
     "floor": 6,
-    "table": "D"
+    "table": "D",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "baja_sae",
@@ -125,7 +275,17 @@
     "full_name": "Bruin Racing Baja SAE",
     "short_name": "Baja SAE",
     "floor": 3,
-    "table": "F"
+    "table": "F",
+    "umbrella": "Bruin Racing",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "beam",
@@ -133,7 +293,17 @@
     "full_name": "Building Engineers and Mentors",
     "short_name": "BEAM",
     "floor": 4,
-    "table": "D"
+    "table": "D",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "bfr",
@@ -141,7 +311,17 @@
     "full_name": "Bruin Formula Racing",
     "short_name": "BFR",
     "floor": 1,
-    "table": "F"
+    "table": "F",
+    "umbrella": "Bruin Racing",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "bhs",
@@ -149,7 +329,17 @@
     "full_name": "Bruin Home Solutions",
     "short_name": "BHS",
     "floor": 1,
-    "table": "G"
+    "table": "G",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "blockchain",
@@ -157,7 +347,17 @@
     "full_name": "Blockchain@UCLA",
     "short_name": "",
     "floor": 6,
-    "table": "C"
+    "table": "C",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "bmes",
@@ -165,7 +365,17 @@
     "full_name": "Biomedical Engineering Society",
     "short_name": "BMES",
     "floor": 1,
-    "table": "D"
+    "table": "D",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "bruinspace",
@@ -173,7 +383,17 @@
     "full_name": "Bruin Spacecraft Group",
     "short_name": "Bruin Space",
     "floor": 4,
-    "table": "G"
+    "table": "G",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "calgeo",
@@ -181,7 +401,17 @@
     "full_name": "CalGeo at UCLA",
     "short_name": "",
     "floor": 4,
-    "table": "F"
+    "table": "F",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "dbf",
@@ -189,7 +419,17 @@
     "full_name": "Design Build Fly at UCLA",
     "short_name": "",
     "floor": 2,
-    "table": "G"
+    "table": "G",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "devx",
@@ -197,7 +437,17 @@
     "full_name": "DevX",
     "short_name": "",
     "floor": 6,
-    "table": "B"
+    "table": "B",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "eeri_seaosc",
@@ -205,7 +455,17 @@
     "full_name": "EERI-SEAOSC",
     "short_name": "Earthquake Engineering Research Institute - Structural Engineering Association of Southern California",
     "floor": 2,
-    "table": "E"
+    "table": "E",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "esuc",
@@ -213,7 +473,17 @@
     "full_name": "Engineering Society at UCLA",
     "short_name": "ESUC",
     "floor": 7,
-    "table": "A"
+    "table": "A",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "ewb",
@@ -221,7 +491,17 @@
     "full_name": "Engineers Without Borders at UCLA",
     "short_name": "EWB-UCLA",
     "floor": 4,
-    "table": "A"
+    "table": "A",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "exploretech",
@@ -229,7 +509,17 @@
     "full_name": "exploretech.la",
     "short_name": "",
     "floor": 4,
-    "table": "C"
+    "table": "C",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "hkn",
@@ -237,7 +527,17 @@
     "full_name": "Eta Kappa Nu (HKN)",
     "short_name": "HKN",
     "floor": 3,
-    "table": "G"
+    "table": "G",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "ieee",
@@ -245,15 +545,35 @@
     "full_name": "IEEE at UCLA",
     "short_name": "IEEE",
     "floor": 2,
-    "table": "B"
+    "table": "B",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "ieee_watt",
     "path": "ieee_watt",
     "full_name": "IEEE WATT",
-    "short_name": "Women Advancing Tech Through Teamwork",
+    "short_name": "Women Advancing Technology through Teamwork",
     "floor": 3,
-    "table": "E"
+    "table": "E",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "ispe",
@@ -261,7 +581,17 @@
     "full_name": "International Society of Pharmaceutical Engineering",
     "short_name": "",
     "floor": 4,
-    "table": "B"
+    "table": "B",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "ite",
@@ -269,7 +599,17 @@
     "full_name": "Institute of Transportation Engineers",
     "short_name": "",
     "floor": 7,
-    "table": "C"
+    "table": "C",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "mentorseas",
@@ -277,7 +617,17 @@
     "full_name": "MentorSEAS",
     "short_name": "",
     "floor": "8, 9, & 10",
-    "table": "a"
+    "table": "a",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "mrs",
@@ -285,7 +635,17 @@
     "full_name": "Materials Research Society",
     "short_name": "",
     "floor": 3,
-    "table": "C"
+    "table": "C",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "nova",
@@ -293,7 +653,17 @@
     "full_name": "Nova, Tech for Good",
     "short_name": "Nova",
     "floor": 6,
-    "table": "F"
+    "table": "F",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "nsbe",
@@ -301,7 +671,17 @@
     "full_name": "National Society of Black Engineers",
     "short_name": "NSBE",
     "floor": 6,
-    "table": "E"
+    "table": "E",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "pies",
@@ -309,7 +689,17 @@
     "full_name": "Pilipinos in Engineering and Sciences",
     "short_name": "PIES",
     "floor": 1,
-    "table": "E"
+    "table": "E",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "rea",
@@ -317,7 +707,17 @@
     "full_name": "Renewable Energy Association",
     "short_name": "REA",
     "floor": 3,
-    "table": "D"
+    "table": "D",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "rocketproject",
@@ -325,7 +725,17 @@
     "full_name": "Rocket Project",
     "short_name": "",
     "floor": 2,
-    "table": "D"
+    "table": "D",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "smv",
@@ -333,7 +743,17 @@
     "full_name": "Bruin Supermileage Vehicle",
     "short_name": "SMV",
     "floor": 7,
-    "table": "B"
+    "table": "B",
+    "umbrella": "Bruin Racing",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "solar",
@@ -341,7 +761,17 @@
     "full_name": "Design Create Solar",
     "short_name": "SOLAR",
     "floor": 3,
-    "table": "A"
+    "table": "A",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "soles",
@@ -349,7 +779,17 @@
     "full_name": "Society of Latino Engineers and Scientists",
     "short_name": "SOLES",
     "floor": 1,
-    "table": "A"
+    "table": "A",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "swe",
@@ -357,7 +797,17 @@
     "full_name": "Society of Women Engineers",
     "short_name": "SWE",
     "floor": 4,
-    "table": "E"
+    "table": "E",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "uas",
@@ -365,7 +815,17 @@
     "full_name": "UAS@UCLA",
     "short_name": "",
     "floor": 2,
-    "table": "C"
+    "table": "C",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "uip",
@@ -373,7 +833,17 @@
     "full_name": "Undergraduate Internship Program",
     "short_name": "UIP",
     "floor": 6,
-    "table": "G"
+    "table": "G",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "upe",
@@ -381,7 +851,17 @@
     "full_name": "Upsilon Pi Epsilon at UCLA",
     "short_name": "UPE",
     "floor": 2,
-    "table": "F"
+    "table": "F",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   },
   {
     "id": "urp",
@@ -389,6 +869,16 @@
     "full_name": "Undergraduate Research Program",
     "short_name": "URP",
     "floor": 7,
-    "table": "D"
+    "table": "D",
+    "umbrella": "",
+    "website": "",
+    "email": "",
+    "facebook": "",
+    "twitter@": "",
+    "instagram@": "",
+    "github": "",
+    "discord": "",
+    "tagline": "",
+    "description": ""
   }
 ]
