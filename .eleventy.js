@@ -18,7 +18,7 @@ module.exports = function(eleventyConfig) {
             input: "views",
             output: "_site",
         },
-        pathPrefix: "/",
+        pathPrefix: "/ewd-2020/",
         htmlTemplateEngine: "liquid",
         markdownTemplateEngine: "liquid",
     }
