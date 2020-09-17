@@ -16,3 +16,15 @@ window.addEventListener('DOMContentLoaded', () => {
     });
     
 });
+
+function search() {
+    let input = document.getElementById("search").value.replace(/[^0-9a-z]/gi, '').toLowerCase();
+    let cards = document.getElementsByClassName("card");
+    for (let item of cards) {
+        if (item.dataset.names.toLowerCase().search(input) == -1) {
+            document.getElementById(item.id).style.display = 'none';
+        } else {
+            document.getElementById(item.id).style.display = 'grid';
+        }
+    }
+}
