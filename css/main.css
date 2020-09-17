@@ -16,6 +16,7 @@ html {
   font-size: 1em;
   line-height: 1.4;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 /*
@@ -64,6 +65,11 @@ img,
 svg,
 video {
   vertical-align: middle;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 /*
