@@ -5,11 +5,15 @@
     left: 25px;
     top: 17px;
     z-index: 5;
+    -webkit-animation: unspin 0.5s;
+    -moz-animation: unspin 0.5s;
+    animation: unspin 0.5s;
 }
 
-img {
-    max-width: 100%;
-    max-height: 100%;
+#esuc-logo:hover {
+    -webkit-animation: spin 0.5s;
+    -moz-animation: spin 0.5s;
+    animation: spin 0.5s;
 }
 
 #nav-bar {
@@ -23,33 +27,30 @@ img {
     flex-direction: row;
     width: 338px;
     height: 55px;
+    position: relative;
     z-index: 5;
 }
 
-li {
+li.header-link {
     display: inline-block;
     padding: 10px;
 }
-
-
-
-
-
-
 
 #landing-background {
     width: 100vw;
     height: 100vh;
     position: absolute;
-    z-index: -99;
+    z-index: 1;
     background-image: url("../img/landing-background.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-#break {
+#landing-break {
     height: calc(100vh - min(150vw/9, 200px));
+    background: linear-gradient(180deg, #8FCAE4 0%, #FFFFFF 100%);
+    z-index: 0;
 }
 
 #landing-bricks {
@@ -60,17 +61,26 @@ li {
     background-repeat: repeat-x;
     background-position: right top;
     background-image: url("../img/bricks.svg");
+    z-index: 2;
 }
 
 #landing-sign {
     display: inline-block;
-    vertical-align:top;
+    vertical-align: top;
     width: calc(75vw);
     max-width: 900px;
     height: calc(min(150vw/9, 200px));
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url("../img/sign.svg");
+    z-index: 3;
+}
+
+#landing-ground {
+    width: 100vw;
+    height: 3em;
+    margin: -1em;
+    background: #7B7873;
 }
 
 #sign-title {
@@ -99,26 +109,148 @@ li {
     margin-left: 0.8em;
 }
 
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+    float: none;
+    font-family: Martel Sans;
+    font-style: normal;
+    word-wrap: normal;
+}
 
-.section {
-    background-repeat: no-repeat;
-    background-color: #fff;
-    background-size: cover;
-    background-position: center;
-    margin-bottom: 20px;
-    z-index: 0;
+#sticky-sidebar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    height: auto;
+    width: inherit;
+    margin-top: 1rem;
+}
+
+h2 {
+    margin: 0px;
+}
+
+.sidebar li.active>a {
+    color: #030333;
+    font-weight: 500;
+}
+
+.sidebar a {
+    text-decoration: none;
+    display: block;
+    padding: .125rem 0;
+    color: rgb(170, 159, 159);
+    transition: all 50ms ease-in-out;
+}
+
+.sidebar a:hover, .sidebar a:focus {
+    color: #648bba;
+}
+
+div {
     position: relative;
 }
 
-body {
-    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 27.6%), #8FCAE4;
+section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#content-wrapper {
+    display: grid;
+    grid-template-columns: 15em 1fr;
+    justify-content: center;
+    align-content: center;
+    max-width: 900px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li.side-nav {
+    margin-left: 1rem;
+}
+
+.event-name {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2em;
+    text-decoration-line: underline;
+    color: #484848;
+    margin: 0px;
+}
+
+.speaker-name {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5em;
+    color: #484848;
+    margin: 0px;
+}
+
+.speaker-desc {
+    font-family: Open Sans;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1.2em;
+    color: #484848;
+    margin: 0px;
+    margin-top: -0.3em;
+    margin-bottom: 0.3em;
 }
 
 @media screen and (min-width: 1200px) {
     #sign-title {
-       font-size: 55px;
+        font-size: 55px;
     }
     #sign-date {
         font-size: 35px;
+    }
+}
+
+@-moz-keyframes unspin {
+    100% {
+        -moz-transform: rotate(-360deg);
+    }
+}
+
+@-webkit-keyframes unspin {
+    100% {
+        -webkit-transform: rotate(-360deg);
+    }
+}
+
+@keyframes unspin {
+    100% {
+        -webkit-transform: rotate(-360deg);
+        transform: rotate(-360deg);
+    }
+}
+
+@-moz-keyframes spin {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
     }
 }
