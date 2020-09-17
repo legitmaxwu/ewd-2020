@@ -1,0 +1,394 @@
+[
+  {
+    "id": "3d4e",
+    "path": "3d4e",
+    "full_name": "3D Printing For Everyone",
+    "short_name": "3D4E",
+    "floor": 7,
+    "table": "E"
+  },
+  {
+    "id": "acm",
+    "path": "acm",
+    "full_name": "ACM",
+    "short_name": "Association for Computing Machinery at UCLA",
+    "floor": 1,
+    "table": "B"
+  },
+  {
+    "id": "acm_ai",
+    "path": "acm_ai",
+    "full_name": "ACM AI",
+    "short_name": "",
+    "floor": 5,
+    "table": "A"
+  },
+  {
+    "id": "acm_cyber",
+    "path": "acm_cyber",
+    "full_name": "ACM Cyber",
+    "short_name": "",
+    "floor": 5,
+    "table": "F"
+  },
+  {
+    "id": "acm_design",
+    "path": "acm_design",
+    "full_name": "ACM Design",
+    "short_name": "",
+    "floor": 5,
+    "table": "C"
+  },
+  {
+    "id": "acm_hack",
+    "path": "acm_hack",
+    "full_name": "ACM Hack",
+    "short_name": "",
+    "floor": 5,
+    "table": "H"
+  },
+  {
+    "id": "acm_icpc",
+    "path": "acm_icpc",
+    "full_name": "ACM ICPC",
+    "short_name": "International Collegiate Programming Contest",
+    "floor": 5,
+    "table": "D"
+  },
+  {
+    "id": "acm_studio",
+    "path": "acm_studio",
+    "full_name": "ACM Game Studio",
+    "short_name": "",
+    "floor": 5,
+    "table": "B"
+  },
+  {
+    "id": "acm_teachla",
+    "path": "acm_teachla",
+    "full_name": "ACM Teach LA",
+    "short_name": "",
+    "floor": 5,
+    "table": "G"
+  },
+  {
+    "id": "acm_w",
+    "path": "acm_w",
+    "full_name": "ACM-W",
+    "short_name": "",
+    "floor": 5,
+    "table": "E"
+  },
+  {
+    "id": "aiaa",
+    "path": "aiaa",
+    "full_name": "American Institute of Aeronautics and Astronautics",
+    "short_name": "AIAA at UCLA",
+    "floor": 2,
+    "table": "A"
+  },
+  {
+    "id": "aises",
+    "path": "aises",
+    "full_name": "American Indian Science and Engineering Society",
+    "short_name": "AISES",
+    "floor": 6,
+    "table": "A"
+  },
+  {
+    "id": "aiche",
+    "path": "aiche",
+    "full_name": "American Institute of Chemical Engineers",
+    "short_name": "AIChE",
+    "floor": 3,
+    "table": "B"
+  },
+  {
+    "id": "asce",
+    "path": "asce",
+    "full_name": "American Society of Civil Engineers",
+    "short_name": "ASCE",
+    "floor": 1,
+    "table": "C"
+  },
+  {
+    "id": "asme",
+    "path": "asme",
+    "full_name": "American Society of Mechanical Engineers",
+    "short_name": "ASME",
+    "floor": 6,
+    "table": "D"
+  },
+  {
+    "id": "baja_sae",
+    "path": "baja_sae",
+    "full_name": "Bruin Racing Baja SAE",
+    "short_name": "Baja SAE",
+    "floor": 3,
+    "table": "F"
+  },
+  {
+    "id": "beam",
+    "path": "beam",
+    "full_name": "Building Engineers and Mentors",
+    "short_name": "BEAM",
+    "floor": 4,
+    "table": "D"
+  },
+  {
+    "id": "bfr",
+    "path": "bfr",
+    "full_name": "Bruin Formula Racing",
+    "short_name": "BFR",
+    "floor": 1,
+    "table": "F"
+  },
+  {
+    "id": "bhs",
+    "path": "bhs",
+    "full_name": "Bruin Home Solutions",
+    "short_name": "BHS",
+    "floor": 1,
+    "table": "G"
+  },
+  {
+    "id": "blockchain",
+    "path": "blockchain",
+    "full_name": "Blockchain@UCLA",
+    "short_name": "",
+    "floor": 6,
+    "table": "C"
+  },
+  {
+    "id": "bmes",
+    "path": "bmes",
+    "full_name": "Biomedical Engineering Society",
+    "short_name": "BMES",
+    "floor": 1,
+    "table": "D"
+  },
+  {
+    "id": "bruinspace",
+    "path": "bruinspace",
+    "full_name": "Bruin Spacecraft Group",
+    "short_name": "Bruin Space",
+    "floor": 4,
+    "table": "G"
+  },
+  {
+    "id": "calgeo",
+    "path": "calgeo",
+    "full_name": "CalGeo at UCLA",
+    "short_name": "",
+    "floor": 4,
+    "table": "F"
+  },
+  {
+    "id": "dbf",
+    "path": "dbf",
+    "full_name": "Design Build Fly at UCLA",
+    "short_name": "",
+    "floor": 2,
+    "table": "G"
+  },
+  {
+    "id": "devx",
+    "path": "devx",
+    "full_name": "DevX",
+    "short_name": "",
+    "floor": 6,
+    "table": "B"
+  },
+  {
+    "id": "eeri_seaosc",
+    "path": "eeri_seaosc",
+    "full_name": "EERI-SEAOSC",
+    "short_name": "Earthquake Engineering Research Institute - Structural Engineering Association of Southern California",
+    "floor": 2,
+    "table": "E"
+  },
+  {
+    "id": "esuc",
+    "path": "esuc",
+    "full_name": "Engineering Society at UCLA",
+    "short_name": "ESUC",
+    "floor": 7,
+    "table": "A"
+  },
+  {
+    "id": "ewb",
+    "path": "ewb",
+    "full_name": "Engineers Without Borders at UCLA",
+    "short_name": "EWB-UCLA",
+    "floor": 4,
+    "table": "A"
+  },
+  {
+    "id": "exploretech",
+    "path": "exploretech",
+    "full_name": "exploretech.la",
+    "short_name": "",
+    "floor": 4,
+    "table": "C"
+  },
+  {
+    "id": "hkn",
+    "path": "hkn",
+    "full_name": "Eta Kappa Nu (HKN)",
+    "short_name": "HKN",
+    "floor": 3,
+    "table": "G"
+  },
+  {
+    "id": "ieee",
+    "path": "ieee",
+    "full_name": "IEEE at UCLA",
+    "short_name": "IEEE",
+    "floor": 2,
+    "table": "B"
+  },
+  {
+    "id": "ieee_watt",
+    "path": "ieee_watt",
+    "full_name": "",
+    "short_name": "",
+    "floor": 3,
+    "table": "E"
+  },
+  {
+    "id": "ispe",
+    "path": "ispe",
+    "full_name": "International Society of Pharmaceutical Engineering",
+    "short_name": "",
+    "floor": 4,
+    "table": "B"
+  },
+  {
+    "id": "ite",
+    "path": "ite",
+    "full_name": "Institute of Transportation Engineers",
+    "short_name": "",
+    "floor": 7,
+    "table": "C"
+  },
+  {
+    "id": "mentorseas",
+    "path": "mentorseas",
+    "full_name": "MentorSEAS",
+    "short_name": "",
+    "floor": "8, 9, & 10",
+    "table": "a"
+  },
+  {
+    "id": "mrs",
+    "path": "mrs",
+    "full_name": "Materials Research Society",
+    "short_name": "",
+    "floor": 3,
+    "table": "C"
+  },
+  {
+    "id": "nova",
+    "path": "nova",
+    "full_name": "Nova, Tech for Good",
+    "short_name": "Nova",
+    "floor": 6,
+    "table": "F"
+  },
+  {
+    "id": "nsbe",
+    "path": "nsbe",
+    "full_name": "National Society of Black Engineers",
+    "short_name": "NSBE",
+    "floor": 6,
+    "table": "E"
+  },
+  {
+    "id": "pies",
+    "path": "pies",
+    "full_name": "Pilipinos in Engineering and Sciences",
+    "short_name": "PIES",
+    "floor": 1,
+    "table": "E"
+  },
+  {
+    "id": "rea",
+    "path": "rea",
+    "full_name": "Renewable Energy Association",
+    "short_name": "REA",
+    "floor": 3,
+    "table": "D"
+  },
+  {
+    "id": "rocketproject",
+    "path": "rocketproject",
+    "full_name": "Rocket Project",
+    "short_name": "",
+    "floor": 2,
+    "table": "D"
+  },
+  {
+    "id": "smv",
+    "path": "smv",
+    "full_name": "Bruin Supermileage Vehicle",
+    "short_name": "SMV",
+    "floor": 7,
+    "table": "B"
+  },
+  {
+    "id": "solar",
+    "path": "solar",
+    "full_name": "Design Create Solar",
+    "short_name": "SOLAR",
+    "floor": 3,
+    "table": "A"
+  },
+  {
+    "id": "soles",
+    "path": "soles",
+    "full_name": "Society of Latino Engineers and Scientists",
+    "short_name": "SOLES",
+    "floor": 1,
+    "table": "A"
+  },
+  {
+    "id": "swe",
+    "path": "swe",
+    "full_name": "Society of Women Engineers",
+    "short_name": "SWE",
+    "floor": 4,
+    "table": "E"
+  },
+  {
+    "id": "uas",
+    "path": "uas",
+    "full_name": "UAS@UCLA",
+    "short_name": "",
+    "floor": 2,
+    "table": "C"
+  },
+  {
+    "id": "uip",
+    "path": "uip",
+    "full_name": "Undergraduate Internship Program",
+    "short_name": "UIP",
+    "floor": 6,
+    "table": "G"
+  },
+  {
+    "id": "upe",
+    "path": "upe",
+    "full_name": "Upsilon Pi Epsilon at UCLA",
+    "short_name": "UPE",
+    "floor": 2,
+    "table": "F"
+  },
+  {
+    "id": "urp",
+    "path": "urp",
+    "full_name": "Undergraduate Research Program",
+    "short_name": "URP",
+    "floor": 7,
+    "table": "D"
+  }
+]
