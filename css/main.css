@@ -176,6 +176,10 @@ textarea {
   clear: both;
 }
 
+.hide-link { 
+  text-decoration: none; 
+  color: black; 
+} 
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
