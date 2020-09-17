@@ -18,6 +18,7 @@ module.exports = function(eleventyConfig) {
             input: "views",
             output: "_site",
         },
+        pathPrefix: "/",
         htmlTemplateEngine: "liquid",
         markdownTemplateEngine: "liquid",
     }

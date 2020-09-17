@@ -12,21 +12,12 @@
   <meta property="og:url" content="">
   <meta property="og:image" content="">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/img/logo.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
+  {% include dependencies.html %}
 
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/page.css">
-  <link href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300;400;700;900&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap"
-    rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js"
     integrity="sha512-f5HTYZYTDZelxS7LEQYv8ppMHTZ6JJWglzeQmr0CVTS70vJgaJiIO15ALqI7bhsracojbXkezUIL+35UXwwGrQ=="
     crossorigin="anonymous"></script>
-
   <meta name="theme-color" content="#fafafa">
 </head>
 
@@ -53,28 +44,22 @@
   </main>
   <div class="content">
     <hr>
-    <div class="sticky"><input type="text" id="search" onkeyup="search()" placeholder="Search for an organization..."></div>
+    <div><input type="text" id="search" onkeyup="search()" placeholder="Search for an organization..."></div>
     <div class="card-grid">
       {% for org in orgs %}
       <div class="card {{ org.id }}" id="{{ org.id }}" data-names="{{ org.full_name }} {{ org.short_name }}">
-        <div class="card-img-wrapper"><img
-            src="data/{{ org.path }}/logo.png"
+        <div class="card-img-wrapper"><img src="{{ "/data/" | append: org.path | append: "/logo.png" | url}}"
             class="card-img"></div>
-        <div class="card-text">
-          <b>{{ org.full_name }}</b><br>
-          {% if org.short_name != "" %}
-          <em>{{ org.short_name }}</em><br>
-          {% endif %}
-          Floor {{ org.floor }}, Table {{ org.table }}
-          <br>
-          <a href="{{ org.path }}">More Info</a>
+        <div class="center">
+          <div class="card-text">
+            <b>{{ org.full_name }}</b><br>
+            Floor {{ org.floor }}, Table {{ org.table }}
+            <br>
+            <a href="{{ org.path }}">More Info</a>
+          </div>
         </div>
       </div>
       {% endfor %}
-
-
-
-
     </div>
   </div>
 
@@ -83,8 +68,6 @@
   <br>
 
   {% include footer.html %}
-
-  <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p> -->
 
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
