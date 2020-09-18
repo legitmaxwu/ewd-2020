@@ -176,6 +176,10 @@
     border: none;
 }
 
+.p-text-break {
+    font-size: 0;
+}
+
 ::-webkit-scrollbar {
     width: 10px;
 }
