@@ -31,9 +31,13 @@
     z-index: 5;
 }
 
-li.header-link {
+.header-link {
     display: inline-block;
     padding: 10px;
+}
+
+.hide-link:hover {
+    color: #2E2E2E !important;
 }
 
 h1 {
