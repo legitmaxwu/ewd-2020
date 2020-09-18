@@ -350,6 +350,18 @@ li.side-nav {
     }
 }
 
+@media screen and (max-width: 900px) {
+    #sidebar-wrapper {
+        display: none;
+    }
+    #main-body {
+        grid-column: 1 / -1;
+    }
+    #nav-bar {
+        display: none;
+    }
+}
+
 @-moz-keyframes unspin {
     100% {
         -moz-transform: rotate(-360deg);
